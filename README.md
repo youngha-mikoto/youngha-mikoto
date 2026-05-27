@@ -3,7 +3,6 @@
 ### AtCoder Rating
 
 ![Rating Status](images/ratingStatus.png)
-
 ![Rating Graph](images/ratingGraph.png)
 
 <!--
