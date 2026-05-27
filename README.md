@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### AtCoder Rating
+
+![Rating Status](images/ratingStatus.png)
+
+![Rating Graph](images/ratingGraph.png)
+
 <!--
 **youngha-mikoto/youngha-mikoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
