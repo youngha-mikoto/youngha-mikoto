@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![Hello](images/hello.gif)
+
+### Projects
+
+- Misaka
+
 ### AtCoder Rating
 
 ![Rating Status](images/ratingStatus.png)
